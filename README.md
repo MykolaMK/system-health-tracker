@@ -39,7 +39,8 @@ Usage
 
 Sample Output (Generated Report)
 
-```=== UŻYCIE DYSKU ===
+```
+=== UŻYCIE DYSKU ===
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda2        49G  7.5G   39G  17% /
 
@@ -51,7 +52,8 @@ Mem:            7936        1254        4563          32        2398        6681
 user
 
 === ADRES IP UŻYTKOWNIKA ===
-192.168.1.100```
+192.168.1.100
+```
 
 Created as part of Junior SOC Analyst practical portfolio preparation.
 > **Note on Localization:** The script interface, interactive prompts, and generated log headers use Polish for local system administration requirements. Technical documentation and commit history are maintained in English.
